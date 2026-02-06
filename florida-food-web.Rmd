@@ -307,7 +307,7 @@ ggraph(fw_g, layout = "manual", x = coords$x, y = coords$y) +
 3. Quali sono le specie con più potere all'interno della food web? [Risposta 3](#psiet)
 4. Quali sono le specie centrali? [Risposta 4](#cs)
 5. Quali sono i super predatori e le super prede? Cosa emerge analizzando i gradi della rete? [Risposta 5](#adg)
-6. Studiando la connettività della rete, questa risulta resiliente? [Risposta 6](#conn)
+6. Studiando la connettività della rete, cosa emerge? Risulta una grande componente fortemente connessa? [Risposta 6](#conn)
 7. Analizzando le comunità della rete, quali sotto food web emergono? C'è varietà trofica all'interno delle comunità? [Risposta 7](#comm)
 8. Qual'è la lunghezza massima dei cammini minimi? Si presenta lo small-world effect all'interno della rete? [Risposta 8](#sw)
 
